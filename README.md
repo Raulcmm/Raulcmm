@@ -23,9 +23,12 @@
     <br><br>
     I work as a  Web :globe_with_meridians: developer!
     <br><br>
+    I am 23 years old, I studied at the Autonomous University of the State of Mexico, I am a software engineer.
+    I am falling in love with software, I think that imagination is the only thing that limits software and its applications.
+    <br><br>
     <blockquote >
     <p >"We can only see little of the future, but enough to realize that there is much to do."</p>
-    <footer align="right">
+    <footer align="center">
      <cite > -Alan Turing</cite>
     </footer>
   </blockquote>
