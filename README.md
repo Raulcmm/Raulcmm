@@ -24,14 +24,12 @@
     I work as a  Web :globe_with_meridians: developer!
     <br><br>
     <blockquote >
-    <p width="200">"We can only see little of the future, but enough to realize that there is much to do."</p>
+    <p >"We can only see little of the future, but enough to realize that there is much to do."</p>
     <footer align="right">
      <cite > -Alan Turing</cite>
     </footer>
   </blockquote>
    
-    <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 <br>
@@ -56,29 +54,6 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-2888C8?style=for-the-badge&logo=typescript)](https://github.com/Raulcmm) 
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/Raulcmm) 
 
-
-
 [![Git](https://img.shields.io/badge/-Git-333231?style=for-the-badge&logo=git)](https://github.com/Raulcmm) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333231?style=for-the-badge&logo=github)](https://github.com/Raulcmm)
-
-
-
-### 👨‍💻 Languages and Tools
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/hritik5102) 
-
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/Raulcmm) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Raulcmm)
-[![GitHub](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/Raulcmm)
 
