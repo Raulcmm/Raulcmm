@@ -35,7 +35,7 @@
 <br>
 
 --- 
-### 👨‍💻 Languages and Tools <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" height="40" /> 
+### 👨‍💻 Languages and Tools <img align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" height="40" /> 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Raulcmm)  
 
