@@ -1,5 +1,5 @@
+
 <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!🚀 </h2> 
- <!--<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" /> -->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'> 
 <div align="center">
   <a href="https://twitter.com/RaulCamachoM">
@@ -16,31 +16,69 @@
   </a>
 </div>
 
-
-<p align="center">
+<p align="center" >
   <br><br>
   <samp>
     I'm Raúl Camacho:wave:
     <br><br>
     I work as a  Web :globe_with_meridians: developer!
     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
+    <blockquote >
+    <p width="200">"We can only see little of the future, but enough to realize that there is much to do."</p>
+    <footer align="right">
+     <cite > -Alan Turing</cite>
+    </footer>
+  </blockquote>
+   
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 <br>
 
----
+--- 
+### 👨‍💻 Languages and Tools <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" height="40" /> 
 
-### - Languages and Tools...
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Raulcmm)  
 
-<p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="web_development" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top;">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://github.com/Raulcmm)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://github.com/Raulcmm) 
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333231?style=for-the-badge&logo=javascript)](https://github.com/Raulcmm) 
+[![React](https://img.shields.io/badge/-React-363534?style=for-the-badge&logo=react)](https://github.com/Raulcmm)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-363534?style=for-the-badge&logo=Node.js)](https://github.com/Raulcmm)
+[![Angular](https://img.shields.io/badge/-Angular-d90b0e?style=for-the-badge&logo=angular)](https://github.com/Raulcmm)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-333231?style=for-the-badge&logo=mysql)](https://github.com/Raulcmm) 
+[![Firebase](https://img.shields.io/badge/-Firebase-333231?style=for-the-badge&logo=firebase)](https://github.com/Raulcmm) 
+
+[![Jest](https://img.shields.io/badge/-Jest-804D5A?style=for-the-badge&logo=jest)](https://github.com/Raulcmm) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-2888C8?style=for-the-badge&logo=typescript)](https://github.com/Raulcmm) 
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-2885C8?style=for-the-badge&logo=visual-studio-code)](https://github.com/Raulcmm) 
+
+
+
+[![Git](https://img.shields.io/badge/-Git-333231?style=for-the-badge&logo=git)](https://github.com/Raulcmm) 
+[![GitHub](https://img.shields.io/badge/-GitHub-333231?style=for-the-badge&logo=github)](https://github.com/Raulcmm)
+
+
+
+### 👨‍💻 Languages and Tools
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/hritik5102) 
+
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/Raulcmm) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Raulcmm)
+[![GitHub](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/Raulcmm)
 
